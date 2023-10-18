@@ -1,0 +1,8 @@
+path: ./
+
+train: train/images
+val: test/images
+test: test/images
+
+nc: 2
+names: ['blood_vessel','glomerulus']
